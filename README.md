@@ -97,10 +97,21 @@ We use the `-m` flag to specify the commit message.
 
     git commit -m "update names.txt"
 
+> If this is your first time using Git, you may be prompted to enter a name and email 
+> 
+> You can do this by running the following commands
+> 
+>     git config --global user.name "[name]"
+> 
+>     git config --global user.email "[email address]"
+
 ![img.png](images/commit.png)
 
 The changes are now made locally, but the remote repository (hosted on GitHub) needs updating. 
 This is done with the `git push` command
+
+> If this is your first time using Git and GitHub on this computer, you will be prompted to
+> sign in to GitHub.
 
 ![img.png](images/push.png)
 
