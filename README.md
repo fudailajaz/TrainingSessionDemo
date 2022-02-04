@@ -75,9 +75,13 @@ If we now go back to our terminal, and use the command `git status`, we can see 
 
 ![img.png](images/git_status_1.png)
 
-We can also view the difference between the old and new files by using the command `git diff`
+Or alternatively in VSCode:
 
-![img_1.png](images/git_diff.png)
+![img.png](images/git_status_2.jpg)
+
+We can also view the difference between the old and new files.
+
+![img_1.png](images/git_diff_2.jpg)
 
 Before committing our changes, they need to be "staged". This allows you to control which files to add to each commit! 
 To do this, use the command `git add`
