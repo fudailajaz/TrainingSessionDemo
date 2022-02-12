@@ -1,4 +1,4 @@
-# TrainingSessionDemo
+# GitHub Training Session Demo
 Repository to aid a live demo of how to use Git and GitHub for the SunrIde Training Programme
 
 # Activity
@@ -9,6 +9,7 @@ You can do this by **forking the repository**, **committing your changes**, and 
 
 Please refer to this [git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) for help with commands.
 
+<br />
 Each step is explained in below:
 
 ## 1. Install Git and Visual Studio Code
