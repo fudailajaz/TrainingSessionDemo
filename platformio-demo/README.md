@@ -24,7 +24,7 @@ First, make sure that [VS Code](https://code.visualstudio.com/download) is insta
 
 You can install the PlatformIO extension for VS code by searching for it in the "Extensions" tab on the left
 
-![](images\install_pio_extension.png)
+![](images/install_pio_extension.png)
 
 After installing PlatformIO to VS Code, you can create a new project by navigating to the PlatformIO tab on the left.
 
@@ -32,7 +32,7 @@ You can then open PIO Home (or it will open automatically)
 
 To create a new project, click `new project`, then use the wizard to specify the name, board, framework and location for your project.
 
-![](images\create_project.png)
+![](images/create_project.png)
 
 VS Code will then open this project for you, or you can open it manually like any other project.
 
@@ -57,7 +57,7 @@ Each project can have different _configuration environments_. These are declared
 
 ## Arduino blink code - `src/main.cpp`
 
-![](images\arduino_blink_code.png)
+![](images/arduino_blink_code.png)
 
 The default entry point to our project is found in the `src` folder and is called `main.cpp`. It is here where we can write our Arduino code. As shown in the screenshot, add code for the Arduino Blink project to this file.
 
@@ -95,11 +95,11 @@ In VS code, this can be done in three different ways:
 
 Click on the PlatformIO tab, then click on the `Upload` task for the `nanoatmega328` environment.
 
-![](images\pio_ui_upload.png)
+![](images/pio_ui_upload.png)
 
 You will then see a command window appear, which after a few seconds should say `SUCCESS`
 
-![](images\pio_upload_success.png)
+![](images/pio_upload_success.png)
 
 ### Use keyboard shortcut
 
@@ -109,7 +109,7 @@ In VS code, you can use the keyboard shortcut `CTRL+ALT+U` to upload your code.
 
 You can start a command line session within the PIO environment by clicking here:
 
-![](images\pio_new_terminal.png)
+![](images/pio_new_terminal.png)
 
 Then run the command
 
