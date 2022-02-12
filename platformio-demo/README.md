@@ -11,6 +11,9 @@ Contents:
     - [Use PlatformIO user interface](#use-platformio-user-interface)
     - [Use keyboard shortcut](#use-keyboard-shortcut)
     - [Use the command line](#use-the-command-line)
+  - [Installing and using libraries](#installing-and-using-libraries)
+    - [Install library using PlatformIO Home](#install-library-using-platformio-home)
+    - [Install library manually](#install-library-manually)
 
 # What is PlatformIO
 
@@ -116,3 +119,27 @@ Then run the command
     pio run -t upload
 
 
+## Installing and using libraries
+
+The [PlatformIO Registry](https://registry.platformio.org/) contains over 10,000 libraries from software vendors, open-source projects, and the community.
+
+One of the featured libraries is ArduinoJSON, which is the most popular Arduino libray on GitHub.
+
+The installation page for the library can be found [here](https://registry.platformio.org/libraries/bblanchon/ArduinoJson/installation). This page shows how the library can be installed manually, but we can also use the PlatformIO Home UI to do this.
+
+
+### Install library using PlatformIO Home
+
+![](images/pio_home_library_search.png)
+
+![](images/pio_lib_add_to_project.png)
+
+![](images/pio_lib_add_to_project2.png)
+
+### Install library manually
+
+The above example adds this line to `platformio.ini`. You can do this manually, by referring to the [installation page](https://registry.platformio.org/libraries/bblanchon/ArduinoJson/installation) of the library
+
+![](images/platformio_ini_new_library.png)
+
+The library page also contains an [examples](https://registry.platformio.org/libraries/bblanchon/ArduinoJson/examples) section, which you can refer to when understanding how to use the library.
