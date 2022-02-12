@@ -1,5 +1,5 @@
 # GitHub Training Session Demo
-Repository to aid a live demo of how to use Git and GitHub for the SunrIde Training Programme
+Repository to aid a live demo of how to use Git and GitHub for the SunrIde Training Programme.
 
 # Activity
 
@@ -14,7 +14,7 @@ Each step is explained in below:
 
 ## 1. Install Git and Visual Studio Code
 
-Git is the open source distributed version control system that facilitates GitHub activities on your laptop or desktop. 
+Git is the open source distributed version control system that facilitates GitHub activities on your laptop or desktop.
 
 It can be downloaded and installed from https://git-scm.com/downloads
 

@@ -1,4 +1,5 @@
 # PlatformIO Demo
+Repository to aid a live demo of how to use PlatformIO for the SunrIde Training Programme.
 
 Contents:
 
