@@ -143,3 +143,4 @@ The above example adds this line to `platformio.ini`. You can do this manually, 
 ![](images/platformio_ini_new_library.png)
 
 The library page also contains an [examples](https://registry.platformio.org/libraries/bblanchon/ArduinoJson/examples) section, which you can refer to when understanding how to use the library.
+
